@@ -170,3 +170,9 @@ Received Import Request.
   path: Assets/TextMesh Pro/Fonts/BMJUA_TTF SDF.asset
   artifactKey: Guid(b35573a80d41fc349be7a7c79555fc41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/TextMesh Pro/Fonts/BMJUA_TTF SDF.asset using Guid(b35573a80d41fc349be7a7c79555fc41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d27fc89e04af7b994c98afd45187a00') in 0.079619 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1818.067754 seconds.
+  path: Assets/DataBase/Weapon.csv
+  artifactKey: Guid(c964574cb7289d1408589a513be95154) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DataBase/Weapon.csv using Guid(c964574cb7289d1408589a513be95154) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c2fca5197d77b2f2a3a0769a834a120') in 0.008695 seconds 
